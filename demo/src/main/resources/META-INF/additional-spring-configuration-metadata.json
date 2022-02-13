@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.resources.static-location",
+      "type": "java.lang.String",
+      "description": "Description for spring.resources.static-location."
+    },
+    {
+      "name": "installationDirectory",
+      "type": "java.lang.String",
+      "description": "Description for installationDirectory."
+    }
+  ] }
